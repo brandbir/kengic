@@ -1,3 +1,5 @@
+src/dataset_coco.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
