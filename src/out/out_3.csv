@@ -1,0 +1,2 @@
+index,img_id,rank,caption,caption_cleaned,keywords,n,parents,hops,nlogP,optimiser,optimiser_desc,max_iters,num_graph_nodes,iterations,top_n_captions,keywords_type,keywords_split,start_end_tokens,keywords_len,hits,length,hits/keywords,hits/length,extra_nouns,extra_nouns_len,duplicates,duplicates_len,log_prob,log_prob_optimiser
+3,36003,1,view of a mirror in a school bus,view of a mirror in a school bus,"view, bus, school, mirror",3,5,1,3,4,logPN_HL,150,18,22,5,all,False,False,4,4,8,1.0,0.5,[],0,['a'],1,-16.73725600182457,-0.5230392500570178

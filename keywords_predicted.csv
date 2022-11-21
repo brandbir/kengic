@@ -1,0 +1,5 @@
+img_id,img_path,actual_classes,pred_classes,num_actual_classes,num_pred_classes,pred_scores
+20078,images/COCO_val2014_000000002890.jpg,"['people', 'ski', 'snow', 'street']","['snow', 'street', 'ski', 'woman', 'walk', 'skiing', 'people']",4,7,[0.766  0.841  0.876  0.974  0.7837 0.8623 0.7954]
+13910,images/COCO_val2014_000000438915.jpg,"['dog', 'sit', 'skateboard', 'white']","['dog', 'skateboard', 'leash']",4,3,[0.9995 0.9775 0.8184]
+21711,images/COCO_val2014_000000090208.jpg,"['bus', 'decker', 'double', 'green', 'park', 'red', 'three']","['bus', 'double', 'decker', 'green', 'park', 'three']",7,6,[1.     0.9814 0.881  0.9707 0.9946 0.986 ]
+36003,images/COCO_val2014_000000291538.jpg,"['bus', 'mirror', 'school', 'side']","['mirror', 'bus', 'school', 'view']",4,4,[0.981  0.8926 0.9956 0.9243]
